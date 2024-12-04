@@ -1,0 +1,3 @@
+Link do obrazu architektury sieci VGG-16
+
+https://medium.com/@siddheshb008/vgg-net-architecture-explained-71179310050f
